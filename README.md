@@ -1,5 +1,5 @@
 <div align="center">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient:0:040d14,100:0085a2&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient:0:040d14,100:0085a2&height=180&section=header&text=Arthur%20Zebendo&fontSize=80&fontColor=ffffff&animation=fadeIn" />
 </div>
 
 ### <p align="center">Olá! Eu sou o Arthur Zebendo 👋</p>
@@ -19,7 +19,7 @@
       <br><strong>Python</strong>
     </td>
      <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=brain" width="48" height="48" alt="Inteligência Artificial" />
+      <img src="https://api.iconify.design/tabler/brain.svg" width="48" height="48" alt="Inteligência Artificial" />
       <br><strong>Inteligência Artificial</strong>
     </td>
     <td align="center" width="120">
@@ -66,15 +66,6 @@
     </td>
   </tr>
 </table>
-
----
-
-### 📊 Minhas Estatísticas no GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=azebendo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azebendo&layout=compact&langs_count=7&theme=dracula"/>
-</div>
 
 ---
 
