@@ -1,7 +1,3 @@
-<div id="header" align="center">
-  <img src="./assets/meu-banner.jpg" width="100%"/>
-</div>
-
 <div align="center">
   <img src="https://github.com/azebendo/azebendo/assets/110753049/23a073f1-2856-4c75-9257-234b6e509176" width="200px"/>
 </div>
