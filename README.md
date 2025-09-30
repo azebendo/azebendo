@@ -49,7 +49,7 @@
       <br><strong>PostgreSQL</strong>
     </td>
     <td align="center" width="120">
-      <img src="https://www.vectorlogo.zone/logos/microsoft_power_bi/microsoft_power_bi-icon.svg" width="48" height="48" alt="Power BI" />
+      <img src="https://skillicons.dev/icons?i=powerbi" width="48" height="48" alt="Power BI" />
       <br><strong>Power BI</strong>
     </td>
     <td align="center" width="120">
@@ -63,10 +63,6 @@
     <td align="center" width="120">
       <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
       <br><strong>Git</strong>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
-      <br><strong>Docker</strong>
     </td>
   </tr>
 </table>
@@ -99,7 +95,7 @@
 
 -   **Desenvolvimento e Automação de Processos** para diversos setores, utilizando Python, IBM RPA e Power Automate.
 -   **Criação de Dashboards e Relatórios Analíticos** com Power BI para gerar insights estratégicos.
--   **Desenvolvimento de Aplicações Web** com back-end em Python e integração de sistemas.
+-   **Desenvolvimento de Aplicações Web** com back-end em Nodejs ou Python.
 -   **Análise de Dados e Geração de Relatórios Automatizados** com Python e SQL.
 -   **Implementação de Soluções de Inteligência Artificial** para otimização de processos internos.
 -   **Participação em Projetos de Inovação Tecnológica**, oferecendo soluções criativas e escaláveis.
