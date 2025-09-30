@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src=".assets/insight-image-business-continuity-part-one.jpg" width="100%"/>
+  <img src="./assets/meu-banner.jpg" width="100%"/>
 </div>
 
 <div align="center">
@@ -21,6 +21,10 @@
     <td align="center" width="120">
       <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
       <br><strong>Python</strong>
+    </td>
+     <td align="center" width="120">
+      <img src="https://img.shields.io/badge/Inteligência_Artificial-412991?style=for-the-badge&logo=openai&logoColor=white" width="100" alt="Inteligência Artificial" />
+      <br><strong>Inteligência Artificial</strong>
     </td>
     <td align="center" width="120">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
@@ -49,7 +53,7 @@
       <br><strong>PostgreSQL</strong>
     </td>
     <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=powerbi" width="48" height="48" alt="Power BI" />
+      <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" width="80" alt="Power BI" />
       <br><strong>Power BI</strong>
     </td>
     <td align="center" width="120">
