@@ -1,7 +1,6 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient:0:040d14,100:0085a2&height=180&section=header&text=Arthur%20Zebendo&fontSize=80&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient:0:040d14,100:0085a2&height=180&section=header&text=Arthur%20Zebendo&fontSize=80&fontColor=ffffff&animation=fadeIn" />
 </div>
-
 ### <p align="center">Olá! Eu sou o Arthur Zebendo 👋</p>
 
 <p align="center">
@@ -18,8 +17,8 @@
       <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
       <br><strong>Python</strong>
     </td>
-     <td align="center" width="120">
-      <img src="https://api.iconify.design/tabler/brain.svg" width="48" height="48" alt="Inteligência Artificial" />
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=openai" width="48" height="48" alt="Inteligência Artificial" />
       <br><strong>Inteligência Artificial</strong>
     </td>
     <td align="center" width="120">
