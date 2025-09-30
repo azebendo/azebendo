@@ -1,8 +1,4 @@
 <div align="center">
-  <img src="https://github.com/azebendo/azebendo/assets/110753049/23a073f1-2856-4c75-9257-234b6e509176" width="200px"/>
-</div>
-
-<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rounded&color=8F0D87&height=180&section=header&text=Arthur%20Zebendo&fontSize=80&fontColor=ffffff&animation=fadeIn" />
 </div>
 
