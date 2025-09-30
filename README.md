@@ -18,8 +18,8 @@
       <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
       <br><strong>Python</strong>
     </td>
-     <td align="center" width="120">
-      <img src="https://img.shields.io/badge/Inteligência_Artificial-412991?style=for-the-badge&logo=openai&logoColor=white" width="100" alt="Inteligência Artificial" />
+      <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="Inteligência Artificial" />
       <br><strong>Inteligência Artificial</strong>
     </td>
     <td align="center" width="120">
