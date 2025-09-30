@@ -17,10 +17,6 @@
       <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
       <br><strong>Python</strong>
     </td>
-     <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=openai" width="48" height="48" alt="Inteligência Artificial" />
-      <br><strong>Inteligência Artificial</strong>
-    </td>
     <td align="center" width="120">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
       <br><strong>TypeScript</strong>
