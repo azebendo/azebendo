@@ -2,7 +2,11 @@
   <img src="https://github.com/azebendo/azebendo/assets/110753049/23a073f1-2856-4c75-9257-234b6e509176" width="200px"/>
 </div>
 
-### <p align="center">Olá! Sou o Arthur Zebendo 👋</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=8F0D87&height=180&section=header&text=Arthur%20Zebendo&fontSize=80&fontColor=ffffff&animation=fadeIn" />
+</div>
+
+### <p align="center">Olá! Eu sou o Arthur Zebendo 👋</p>
 
 <p align="center">
   Sou um entusiasta de tecnologia e inovação, com experiência em desenvolvimento de sistemas, análise de dados e automação de processos. Meu objetivo é aplicar minhas habilidades para gerar soluções eficientes e impulsionar o crescimento de projetos desafiadores.
