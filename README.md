@@ -84,6 +84,16 @@
       <br><strong>OpenAI API</strong>
     </td>
     <td align="center" width="120">
+      <img src="https://img.shields.io/badge/Anthropic-D97757?style=for-the-badge&logo=anthropic&logoColor=white" width="100" alt="Anthropic" />
+      <br><strong>Anthropic</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" width="100" alt="Gemini" />
+      <br><strong>Gemini</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120">
       <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" width="100" alt="Power BI" />
       <br><strong>Power BI</strong>
     </td>
